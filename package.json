@@ -1,0 +1,31 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkonScript/excel-cource.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "AconDR <vjacheslav.leb@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkonScript/excel-cource/issues"
+  },
+  "homepage": "https://github.com/AkonScript/excel-cource#readme",
+  "private": "true",
+  "devDependencies": {
+    "webpack": "^5.26.1",
+    "webpack-cli": "^4.5.0"
+  }
+}
